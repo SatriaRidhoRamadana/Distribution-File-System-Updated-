@@ -1,0 +1,26 @@
+{
+  "node-5001": {
+    "node_id": "node-5001",
+    "node_address": "http://localhost:5001",
+    "status": "active",
+    "available_space": 192467279872,
+    "total_files": 0,
+    "last_heartbeat": "2025-11-25T04:48:43.879136"
+  },
+  "node-5002": {
+    "node_id": "node-5002",
+    "node_address": "http://localhost:5002",
+    "status": "active",
+    "available_space": 192467279872,
+    "total_files": 0,
+    "last_heartbeat": "2025-11-25T04:48:41.609703"
+  },
+  "node-5003": {
+    "node_id": "node-5003",
+    "node_address": "http://localhost:5003",
+    "status": "active",
+    "available_space": 192467279872,
+    "total_files": 0,
+    "last_heartbeat": "2025-11-25T04:48:39.632431"
+  }
+}
